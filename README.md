@@ -2,7 +2,7 @@
 #### Estudo sempre que posso (quase todo o dia) para me manter atualizado e aprender novas tecnologias.
 
 ### O que eu faço e de onde venho?
-💻 Desenvolvedor Front-end - @Meritt | @Accurate 🌎 São Paulo ✈️ Brasil
+💻 Estagiário - [@michelonsouza](https://github.com/michelonsouza) 🌎 São Paulo ✈️ Brasil
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=dbrobryan&show_icons=true&count_private=true&theme=radical)](https://github.com/dbrobryan/dbrobryan)<br /><br />
 [![github languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dbrobryan&layout=compact&count_private=true&theme=radical)](https://github.com/dbrobryan/dbrobryan)
