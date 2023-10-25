@@ -2,7 +2,7 @@
 #### Estudo sempre que posso (quase todo o dia) para me manter atualizado e aprender novas tecnologias.
 
 ### O que eu faço e de onde venho?
-💻 Estagiário - [@i9tisolutions](https://www.linkedin.com/company/i9tisolutions/mycompany/verification/) 🌎 São Paulo ✈️ Brasil
+💻 Desenvolvedor web Full - Stack🌎 São Paulo ✈️ Brasil
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=dbrobryan&show_icons=true&count_private=true&theme=radical)](https://github.com/dbrobryan/dbrobryan)<br /><br />
 [![github languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dbrobryan&layout=compact&count_private=true&theme=radical)](https://github.com/dbrobryan/dbrobryan)
@@ -40,8 +40,7 @@
 <br />
 
 💻  Atualmente desenvolvendo em ReactJS <br/>
-📚  Estudando para melhorar mais a cada dia <br/>
-🍺  Gosto de jogar futebol aos fins de semana <br/>
+📚  Estudando para melhorar mais a cada dia <br/> 
 
 👍  Se precisar, pode me chamar!
 </samp>
